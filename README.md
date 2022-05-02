@@ -1,5 +1,3 @@
-- Hello All, I'm Ryan.
-- I'm interested in data science and analytics
-- I'm a beginner in computer science
-- I'm almost 30, so this is a career change for me
-- I'm currently teaching myself Python and relearning statistics
+- Hello all, I'm Ryan.
+- I'm in the process of learning computer science with the intention of becoming a software developer. 
+- I'm 29 years old and have worked as a server for most of my professional career.
